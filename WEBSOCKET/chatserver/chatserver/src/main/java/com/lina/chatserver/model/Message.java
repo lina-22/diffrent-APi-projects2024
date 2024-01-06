@@ -1,4 +1,4 @@
-package com.lina.chatserver.contoller.model;
+package com.lina.chatserver.model;
 
 import lombok.*;
 
